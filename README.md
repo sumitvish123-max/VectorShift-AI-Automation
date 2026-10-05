@@ -1,3 +1,4 @@
+"Technical assessment for VectorShift"
 # VectorShift AI Automation Workflow
 
 An advanced, enterprise-grade LLM orchestration pipeline and automation workflow built using **VectorShift** to streamline data-driven operations.
